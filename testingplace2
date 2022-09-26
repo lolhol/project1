@@ -1,0 +1,354 @@
+[
+    {
+        "uuid": "e1c129e119c247fda4471ef9b97f2a4d",
+        "count": 1,
+        "startingBid": 15300000,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-25T16:01:19",
+        "end": "2022-09-27T16:01:19",
+        "auctioneerId": "2b51ce15bb224f309fc4c3eb51401543",
+        "profileId": "8b53f076f35b4c4ab422dd6102ccadb8",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "a8275f1ff413"
+            }
+        },
+        "itemCreatedAt": "2022-09-12T19:28:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "a8275f1ff413"
+        }
+    },
+    {
+        "uuid": "0385a7fe70b54472a2f3c7086f41888b",
+        "count": 1,
+        "startingBid": 16400000,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-26T01:14:30",
+        "end": "2022-09-26T07:14:30",
+        "auctioneerId": "3e1d9375e50749698fb8192f10eb07e8",
+        "profileId": "79157cec165d4ac89a8d796d66dbe6bb",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "0b25d4ee9319"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T21:14:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "0b25d4ee9319"
+        }
+    },
+    {
+        "uuid": "aae087c36513412ca60b431506c4e1fe",
+        "count": 1,
+        "startingBid": 16499999,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre ✪✪✪✪✪",
+        "start": "2022-09-25T11:12:04",
+        "end": "2022-09-26T11:12:04",
+        "auctioneerId": "78e836263641461287ed124a32d9a044",
+        "profileId": "1718b718b7ec44d88f3f95acd322290c",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "upgrade_level": 5,
+                "uid": "9dab3898a08c"
+            }
+        },
+        "itemCreatedAt": "2022-09-24T16:06:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "upgrade_level": "5",
+            "uid": "9dab3898a08c"
+        }
+    },
+    {
+        "uuid": "ee53bdbd79a44656bc17791299f2e489",
+        "count": 1,
+        "startingBid": 16499999,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-26T00:15:50",
+        "end": "2022-09-26T06:15:50",
+        "auctioneerId": "b7ea6b625f6b4753996e18039d141298",
+        "profileId": "9e3d7799cbaf40c589e341828e3da3e1",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "d5023d0a3d35"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T20:15:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "d5023d0a3d35"
+        }
+    },
+    {
+        "uuid": "f0a6ac8bfb1b4dbfaaae4ab90a02ecbe",
+        "count": 1,
+        "startingBid": 16948980,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-25T21:51:52",
+        "end": "2022-09-26T03:51:52",
+        "auctioneerId": "b7ea6b625f6b4753996e18039d141298",
+        "profileId": "9e3d7799cbaf40c589e341828e3da3e1",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "a05ad3949adf"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T17:31:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "a05ad3949adf"
+        }
+    },
+    {
+        "uuid": "69057b9fff44467aaeca4c3114715aa6",
+        "count": 1,
+        "startingBid": 16948988,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-25T20:51:53",
+        "end": "2022-09-26T02:51:53",
+        "auctioneerId": "ae4f22ed2421497dae360f1c3da53b10",
+        "profileId": "dfbe5febf8db460c8517fdcc10ba0110",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "3e95a815da17"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T16:49:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "3e95a815da17"
+        }
+    },
+    {
+        "uuid": "dd41c2b0398f493a8ec35b7a345e3c96",
+        "count": 1,
+        "startingBid": 16948998,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-25T20:07:04",
+        "end": "2022-09-27T20:07:04",
+        "auctioneerId": "0bd16a4749c745b2a11d3e95d9919e4f",
+        "profileId": "9fab83a52106441eb4e850e9e730e8f9",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "feb547bd293b"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T05:03:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "feb547bd293b"
+        }
+    },
+    {
+        "uuid": "7f5e7baf19ea4f55b3e098aaf7ac044e",
+        "count": 1,
+        "startingBid": 16949996,
+        "tag": "BAT_WAND",
+        "itemName": "Spirit Sceptre",
+        "start": "2022-09-25T19:46:50",
+        "end": "2022-09-27T19:46:50",
+        "auctioneerId": "0bd16a4749c745b2a11d3e95d9919e4f",
+        "profileId": "9fab83a52106441eb4e850e9e730e8f9",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [],
+        "nbtData": {
+            "data": {
+                "uid": "feb547bd293b"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T05:03:00",
+        "reforge": "None",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "feb547bd293b"
+        }
+    },
+    {
+        "uuid": "1934cdef5463474cbcd366d4ba335c3e",
+        "count": 1,
+        "startingBid": 16999999,
+        "tag": "BAT_WAND",
+        "itemName": "Spicy Spirit Sceptre ✪",
+        "start": "2022-09-25T08:40:22",
+        "end": "2022-09-28T08:40:22",
+        "auctioneerId": "9821bec0d7af45ceaf177af41c5b295f",
+        "profileId": "8605417d5cbd4c44a34903b5b7537a33",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [
+            {
+                "type": "critical",
+                "level": 5
+            },
+            {
+                "type": "sharpness",
+                "level": 5
+            }
+        ],
+        "nbtData": {
+            "data": {
+                "upgrade_level": 1,
+                "uid": "6407e38d0906"
+            }
+        },
+        "itemCreatedAt": "2022-09-25T00:50:00",
+        "reforge": "Spicy",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "upgrade_level": "1",
+            "uid": "6407e38d0906"
+        }
+    },
+    {
+        "uuid": "cc2696b684fb41a395a0ab2ad4c7607e",
+        "count": 1,
+        "startingBid": 17000000,
+        "tag": "BAT_WAND",
+        "itemName": "Legendary Spirit Sceptre",
+        "start": "2022-09-26T00:37:18",
+        "end": "2022-09-26T06:37:18",
+        "auctioneerId": "b281354f275c4a3a80e851285a9b0b16",
+        "profileId": "3072814af57642639d107a9178990d23",
+        "coopMembers": null,
+        "highestBidAmount": 0,
+        "bids": null,
+        "anvilUses": 0,
+        "enchantments": [
+            {
+                "type": "experience",
+                "level": 3
+            },
+            {
+                "type": "venomous",
+                "level": 5
+            },
+            {
+                "type": "looting",
+                "level": 3
+            },
+            {
+                "type": "syphon",
+                "level": 3
+            },
+            {
+                "type": "thunderlord",
+                "level": 5
+            },
+            {
+                "type": "sharpness",
+                "level": 5
+            },
+            {
+                "type": "luck",
+                "level": 3
+            },
+            {
+                "type": "knockback",
+                "level": 2
+            },
+            {
+                "type": "critical",
+                "level": 5
+            },
+            {
+                "type": "scavenger",
+                "level": 3
+            },
+            {
+                "type": "first_strike",
+                "level": 4
+            },
+            {
+                "type": "fire_aspect",
+                "level": 2
+            }
+        ],
+        "nbtData": {
+            "data": {
+                "uid": "2f7a83f5a6b1"
+            }
+        },
+        "itemCreatedAt": "2022-09-24T09:28:00",
+        "reforge": "Legendary",
+        "category": "WEAPON",
+        "tier": "LEGENDARY",
+        "bin": true,
+        "flatNbt": {
+            "uid": "2f7a83f5a6b1"
+        }
+    }
+]
