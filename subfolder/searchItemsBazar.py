@@ -10,6 +10,3 @@ bz = json.loads(myfile)
 
 # Finds the EXACT price of a given item
 bz_recombobulator = bz["products"]["RECOMBOBULATOR_3000"]["quick_status"]["buyPrice"]
-
-# Prints the EXACT price of the given item
-print(bz_recombobulator)
