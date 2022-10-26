@@ -22,4 +22,4 @@ item_recom = profile3["profiles"][profile_uuid]["items"]["inventory"][0]["recomb
 if item_recom:
     price1 = bz_recombobulator
 else:
-    pass 
+    price1 = 0
